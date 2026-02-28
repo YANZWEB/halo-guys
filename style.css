@@ -1,0 +1,67 @@
+*,html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+}
+
+.a {
+    color: white;
+    text-decoration: none;
+}
+.navbar { 
+    background-color: brown;
+    width: 100%;
+    height: 10vh;
+}
+
+.ul-navbar {
+   display: flex;
+   height: 100px;
+   justify-content: center;
+   align-items: center;
+}
+
+.linavbar {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    font-size: 30px;
+    font-style: initial;
+    height: 60px;
+}
+
+.CONTENT { 
+   background-color: rgb(44, 41, 41);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 80vh;
+}
+ 
+.link {
+    background-color:rgb(44, 41, 41);
+    border-radius: 10px;
+}
+
+.IMG{
+    width: 400px;
+    height: 250px;
+}
+
+.fotter {
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    font-style: italic;
+}
+
+.biru {
+    text-decoration: none;
+    color: white;
+}
